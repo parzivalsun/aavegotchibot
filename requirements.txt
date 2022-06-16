@@ -1,0 +1,9 @@
+opencv-python~=4.5.5.64
+numpy~=1.22.3
+selenium~=4.1.3
+python-dotenv~=0.20.0
+fake-useragent~=0.1.11
+requests~=2.27.1
+Pillow~=9.1.0
+pyarmor~=7.4.2
+websockets~=10.3
